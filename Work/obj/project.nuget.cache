@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "7lNsynToyvNTi4AlhMtKJCw7HMr93Pvg12op7f0p6E685pqVLrPgeZl8QQ2Ub/0Pk5tMWG7JNGJ40h2aPZuCmA==",
+  "success": true,
+  "projectFilePath": "L:\\Csharp\\Numpy_DotNet\\Work\\Work.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSikander\\.nuget\\packages\\grpc\\2.38.0\\grpc.2.38.0.nupkg.sha512",
+    "C:\\Users\\MSikander\\.nuget\\packages\\grpc.core\\2.38.0\\grpc.core.2.38.0.nupkg.sha512",
+    "C:\\Users\\MSikander\\.nuget\\packages\\grpc.core.api\\2.38.0\\grpc.core.api.2.38.0.nupkg.sha512",
+    "C:\\Users\\MSikander\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\MSikander\\.nuget\\packages\\numpy\\3.7.1.25\\numpy.3.7.1.25.nupkg.sha512",
+    "C:\\Users\\MSikander\\.nuget\\packages\\python.deployment\\1.2.0\\python.deployment.1.2.0.nupkg.sha512",
+    "C:\\Users\\MSikander\\.nuget\\packages\\python.included\\3.7.3.13\\python.included.3.7.3.13.nupkg.sha512",
+    "C:\\Users\\MSikander\\.nuget\\packages\\pythonnet_netstandard_py37_win\\2.5.1\\pythonnet_netstandard_py37_win.2.5.1.nupkg.sha512",
+    "C:\\Users\\MSikander\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
